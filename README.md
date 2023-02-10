@@ -6,8 +6,8 @@ Interests
   + Music
 
 Currently learning
-  + C++
   + Python
+  + C#
 
 Im looking to collaborate on
   + Anything, Feel free to message me on discord
