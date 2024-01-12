@@ -1,5 +1,5 @@
-# Hey, I'm Devontae
-Half programmer, half designer, half gamer and half halfer
+# Hey, I'm Devontae!
+## Half programmer, half designer, half gamer and half halfer
 
 ### Languages
 
