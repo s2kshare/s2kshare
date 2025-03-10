@@ -3,10 +3,10 @@ Half programmer, half designer, half gamer and half halfer
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,cs,php,python,java,dotnet,nodejs)](https://skillicons.dev)
+[![Languages I'm comfortable with](https://skillicons.dev/icons?i=html,css,js,jquery,react,cs,php,python,java,dotnet,nodejs)](https://skillicons.dev)
 
 ## Contact
   + Discord
-    - s2k#9491
+    - s2k_.
   + Email
     - s2kdevelopshare@gmail.com
